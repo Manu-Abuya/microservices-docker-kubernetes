@@ -6,8 +6,7 @@ This project implements a microservices architecture using Docker for containeri
 
 - Docker: Containerization platform used to package the microservices.
 - Kubernetes: Container orchestration tool used to manage the deployment, scaling, and networking of the microservices.
-- Programming Languages: [Specify the programming languages used, e.g., Java, Python, Node.js]
-- Frameworks: [Specify the frameworks used, e.g., Spring Boot, Flask, Express.js]
+- Programming Languages: GoLang
 
 ## Project Structure
 
